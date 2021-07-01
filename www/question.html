@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Questions</title>
+    <link rel="stylesheet" href="css/app.css">
+    <link rel="stylesheet" href="css/question.css">
+</head>
+<body>
+    <div class="container">
+        <div id="questionaire" class="justify-center flex-column">
+            <div id="hud">
+                <div id="hud-item">
+                    <p id="progressText" class="hud-prefix">
+                        Category
+                    </p>
+                    <div id="progressBar">
+                        <div id="progressBarFull"></div>
+                    </div>
+
+                </div>
+                <div id="hud-item">
+                    <p class="hud-prefix">
+                        HARRIS Toolkit
+                    </p>
+                </div>
+            </div>
+        <h2 id="question">Does the person have a Rockwood frailty score of 5 or above?</h2>
+        <div class="choice-container">
+            <p class="choice-prefix">A</p>
+            <p class="choice-text" data-number="1">Yes</p>
+           
+        </div>
+        <div class="choice-container">
+            <p class="choice-prefix">B</p>
+            <p class="choice-text" data-number="2">No</p>
+        </div>
+    </div>
+    </div>
+    <script src="js/question.js"></script>
+</body>
+</html>
