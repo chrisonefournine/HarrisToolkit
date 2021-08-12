@@ -27,9 +27,7 @@
         "category": "Delirium",
         "question": "Does the person present with an actue confusional state?", 
         "choice1": "Yes",
-        "choice2": "No",
-        "action1": "Delerium 1 Yes",
-        "action2": "Delerium 1 No"
+        "choice2": "No"
     
         },
 
@@ -38,8 +36,7 @@
         "question": "Is the cause of delirium clear?", 
         "choice1": "Yes",
         "choice2": "No",
-        "action1": "Delerium 2 Yes",
-        "action2": "Delerium 2 No"
+        "action2": "Should have further assessment made by the medical team to identify the cause of the delirium. Consider PINCH ME causes."
 
         },
 
@@ -48,8 +45,8 @@
         "question": "Does the current confusional state impact on the persons ability to function and maintain safety at home?", 
         "choice1": "Yes",
         "choice2": "No",
-        "action1": "Delerium 3 Yes",
-        "action2": "Delerium 3 No"
+        "action1": "Could consider additional monitoring of resolving delirium at home from family, community services or voluntary sector such as Red Cross if required.",
+        "action2": "Should take steps to reduce delirium ‘PINCH ME’. Aim to reduce bed moves and disruption. \nTo facilitate a discharge; Could consider input from case managers to review appropriate options to support the person with delirium such as Pathway 3."
     
         },
     {
