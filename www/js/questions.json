@@ -19,7 +19,7 @@
         "choice1": "Yes",
         "choice2": "No",
         "action1": "Could indicate the need for further capacity assessments during their stay in hospital",
-        "action2": "Should consider the need to apply for a Deprivation of Liberty (DoLs)\n Should consider involving and Lasting power of attorney (LPOA) in best interest decisions\n Could give advice to the person/ family members about Mental capacity Act."
+        "action2": "Should consider the need to apply for a Deprivation of Liberty (DoLs)\nShould consider involving and Lasting power of attorney (LPOA) in best interest decisions\nCould give advice to the person/ family members about Mental capacity Act."
     
         },
 
@@ -53,9 +53,7 @@
         "category": "Memory",
         "question": "Does the person, family or 4AT test indicate concerns relating to memory", 
         "choice1": "Yes",
-        "choice2": "No",
-        "action1": "Memory 1 Yes",
-        "action2": "Memory 1 No"
+        "choice2": "No"
     
         },
 
@@ -64,17 +62,14 @@
         "question": "Does the person or family feel the memory condition would impact on the persons ability to function or maintain safety at home?", 
         "choice1": "Yes",
         "choice2": "No",
-        "action1": "Memory 2 Yes",
-        "action2": "Memory 2 No"
-    
+        "action1": "Should have an in-patient assessment of safety by an Occupational Therapist or Frailty Practitioner.\nTo facilitate a discharge; Could consider urgent community assessment by therapist on Pathway 1 if deemed safe to return home.\nCould request follow up in community memory services.",
+        "action2": "Could consider non-urgent referral to memory services in the community via GP"
         },
     {
         "category": "Continence",
         "question": "Does the persons current continence management meet their needs?", 
         "choice1": "Yes",
-        "choice2": "No",
-        "action1": "Continence 1 Yes",
-        "action2": "Continence 1 No"
+        "choice2": "No"
     
         },
 
@@ -83,8 +78,8 @@
         "question": "Does the current continence situation impact on the persons ability to function, maintain safety and dignity at home?", 
         "choice1": "Yes",
         "choice2": "No",
-        "action1": "Continence 2 Yes",
-        "action2": "Continence 2 No"
+        "action1": "Should have an in patient continence assessment and plan by occupational therapist, registered nurse or Frailty Practitioner.\nTo facilitate a discharge; Could have immediate continence needs met and urgent referral to community services for rapid follow up. e.g. family purchase or issue pads, bottles or commode and District Nurses visit next day after discharge.",
+        "action2": "Could have non urgent referral to community continence services via the District Nurses (DN’s)"
 
         },
 
@@ -92,9 +87,7 @@
         "category": "Mobility",
         "question": "Has the person has a recent change in their ability to walk or transfer?", 
         "choice1": "Yes",
-        "choice2": "No",
-        "action1": "Mobility 1 Yes",
-        "action2": "Mobility 1 No"
+        "choice2": "No"
 
         },
 
@@ -103,8 +96,8 @@
         "question": "Does the current ability to walk or transfer impact on the persons abilty to function or manitain safety at home?", 
         "choice1": "Yes",
         "choice2": "No",
-        "action1": "Mobility 2 Yes",
-        "action2": "Mobility 2 No"
+        "action1": "Should have a mobility review as an in-patient by a physiotherapist or Frailty Practitioner.\nTo facilitate a discharge: Could consider urgent therapy review at home by Pathway 1.",
+        "action2": "Could consider a non-urgent referral to community physiotherapy to support mobility review at home."
     
         },
 
@@ -112,9 +105,7 @@
         "category": "Instabilty",
         "question": "Does the person have a history of falls or express a fear of falling?", 
         "choice1": "Yes",
-        "choice2": "No",
-        "action1": "Instabilty 1 Yes",
-        "action2": "Instabilty 1 No"
+        "choice2": "No"
     
         },
 
@@ -123,8 +114,8 @@
         "question": "Does the person have any of the following? Admitted due to a fall, a history of falls in hospital or they express a fear of falling whilst an inpatient.", 
         "choice1": "Yes",
         "choice2": "No",
-        "action1": "Instabilty 2 Yes",
-        "action2": "Instabilty 2 No"
+        "action1": "Should have a move detailed moving and handling plan. It may be necessary to consider bay nursing or intentional rounding for increased safety.\nShould have an in-patient falls review by a Physiotherapist or Frailty Practitioner.",
+        "action2": "Should ensure the person has their regular walking aid, safe footwear and a clear handling plan."
     
         },
 
@@ -133,8 +124,8 @@
         "question": "Does the current risk of falling impact on the persons abilty to function or maintain safety at home", 
         "choice1": "Yes",
         "choice2": "No",
-        "action1": "Instabilty 3 Yes",
-        "action2": "Instabilty 3 No"
+        "action1": "Should have a detailed falls assessment as an in-patient by a Physiotherapist or Frailty Practitioner.\nTo facilitate a discharge; Could consider an urgent community assessment of falls by Pathway 1 if deemed safe to do so.\nShould ensure the person has a plan at home to be able to summon help following a fall. e.g. a pendant alarm, mobile phone or the person they live with is able to summon help.",
+        "action2": "Could consider a non-urgent therapy review of falls in the community"
     
         },
 
@@ -142,9 +133,7 @@
         "category": "Self Care",
         "question": "Has the person had a recent change in their ability to wash and dress or prepare food and drink?", 
         "choice1": "Yes",
-        "choice2": "No",
-        "action1": "Self Care 1 Yes",
-        "action2": "Self Care 1 No"
+        "choice2": "No"
     
         },
 
@@ -153,8 +142,8 @@
         "question": "Does the current ability to wash and dress or prepare food and drink impact on the persons abilty to function or maintain safety at home?", 
         "choice1": "Yes",
         "choice2": "No",
-        "action1": "Self Care 2 Yes",
-        "action2": "Self Care 2 No"
+        "action1": "Should have an in-patient assessment of function by an Occupational Therapist or Frailty Practitioner.\nTo facilitate a discharge: could consider an urgent community functional assessment by Pathway 1 if it is deemed safe to do so.",
+        "action2": "Could consider a non-urgent referral to community therapy to review functional ability at home."
     
         },
 
@@ -163,8 +152,7 @@
         "question": "Does the person feel they have adequate support in place to meet their needs? This includes: Formal Care support, Family and informal support, Shopping services and support with domestic tasks.", 
         "choice1": "Yes",
         "choice2": "No",
-        "action1": "Support 1 Yes",
-        "action2": "Support 1 No"
+        "action1": "Should confirm with existing Care givers that they are able to continue to support and agree a re-start time."
     
         },
 
@@ -173,8 +161,8 @@
         "question": "Does the current support situation impact on the persons ability to function or maintain safety at home?", 
         "choice1": "Yes",
         "choice2": "No",
-        "action1": "Support 2 Yes",
-        "action2": "Support 2 No"
+        "action1": "Should have an in-patient review of the persons care needs by an occupational therapist, case manager or Frailty Practitioner.\nTo facilitate a discharge;\n* Could consider urgent community review by Pathway 1 with re-ablement if it is safe to do so.\n* Could have urgent input from Red Cross home from hospital if this would meet the identified needs.\n* Could discuss with family how to meet the persons support needs.",
+        "action2": "Could consider non-urgent referral to third party/ voluntary sector for advice. E.g. Age UK or Red Cross."
     
         },
 
@@ -182,9 +170,7 @@
         "category": "Medication",
         "question": "Has the person had a recent medication review as well as having a plan at home that works to help them take their medication?", 
         "choice1": "Yes",
-        "choice2": "No",
-        "action1": "Medication 1 Yes",
-        "action2": "Medication 1 No"
+        "choice2": "No"
     
         },
 
@@ -193,8 +179,7 @@
         "question": "Is the person on five or more medications?", 
         "choice1": "Yes",
         "choice2": "No",
-        "action1": "Medication 2 Yes",
-        "action2": "Medication 2 No"
+        "action1": "Should have a review of medication as an in-patient by a pharmacist, Geriatrician or Frailty Practitioner using STOPP-START principals."
     
         },
 
@@ -203,8 +188,7 @@
         "question": "Has the person identified a difficulty with how they are ableto be concordant with their medication pescription at home? This includes: Difficulty remembering to take tablets, difficulty getting to a pharmacy and difficulty opening bottles.", 
         "choice1": "Yes",
         "choice2": "No",
-        "action1": "Medication 3 Yes",
-        "action2": "Medication 3 No"
+        "action1": "Should have further assessment from in-patient Pharmacy, medical team or Frailty Practitioner to create home medication plan."
     
         },
 
@@ -212,9 +196,7 @@
         "category": "Physical Welbeing",
         "question": "Does the person show signs of frailty syndromes? Including: Unintentional weight loss, increased weakness, slower walking speed, reduces levels of activity and exhaustion", 
         "choice1": "Yes",
-        "choice2": "No",
-        "action1": "Physical Welbeing 1 Yes",
-        "action2": "Physical Welbeing 1 No"
+        "choice2": "No"
 
         },
 
@@ -223,8 +205,8 @@
         "question": "Does the current situation of increasing frailty impact on the persons abiltity to function or maintain safety at home?", 
         "choice1": "Yes",
         "choice2": "No",
-        "action1": "Physical Welbeing 2 Yes",
-        "action2": "Physical Welbeing 2 No"
+        "action1": "Should have review by Frailty Practitioner to examine for elements of reversibility and to manage symptoms.\nShould have opportunity to discuss ReSpect and Treatment escalation plan (TEP) with a geriatrician or medical team. 'Think last 1000 days'.\nShould have request for GP to discuss Advanced Care Planning in community.\nCould consider input from other specialists such as dieticians.",
+        "action2": "Could have non-urgent community Frailty review.\nCould have conversations in community to discuss Advanced Care Planning. Request GP to follow up."
 
         },
 
@@ -232,9 +214,7 @@
         "category": "Psychological Welbeing",
         "question": "Does the person or relative express concerns relating to the persons mental welbeing? This can include: Social isolation, depression and mental health conditions", 
         "choice1": "Yes",
-        "choice2": "No",
-        "action1": "Physical Welbeing 3 Yes",
-        "action2": "Physical Welbeing 3 No"
+        "choice2": "No"
     
         },
 
@@ -243,8 +223,8 @@
         "question": "Does the persons current mental welbeing impact on their ability to function or maintain safety at home?", 
         "choice1": "Yes",
         "choice2": "No",
-        "action1": "Physical Welbeing 4 Yes",
-        "action2": "Physical Welbeing 4 No"
+        "action1": "Should have further assessment by the medical team or acute Mental Health team to establish treatment plan for psychological wellbeing.\nCould consider input from third party or voluntary sector e.g Red Cross befriending service if this meets the persons needs.",
+        "action2": "Could consider referral to self help services in community or non-urgent mental health team input."
 
         },
 
@@ -252,10 +232,8 @@
         "category": "Communication and Sensory Systems",
         "question": "Does the person have an impairment which impacts on their ability to see, hear or communicate thier needs?", 
         "choice1": "Yes",
-        "choice2": "No",
-        "action1": "Communication and Sensory Systems 1 Yes",
-        "action2": "Communication and Sensory Systems 1 No"
-    
+        "choice2": "No"
+
         },
 
     {
@@ -263,8 +241,8 @@
         "question": "Does the current sensory and communication situation impact on the persons ability to function or maintain safety at home or whilst in hospital?", 
         "choice1": "Yes",
         "choice2": "No",
-        "action1": "Communication and Sensory Systems 2 Yes",
-        "action2": "Communication and Sensory Systems 2 No"
+        "action1": "Should consider safety and accessibility on the ward and adapt appropriately\ne.g. hearing amplifier, whiteboard for writing, bay nursing for increased observation and the use of intentional rounding.\nCould consider further assessment from hearing therapist, Speech and language therapist (SALT), eye hospital, Learning disabilities team, dementia team.\nCould suggest to the person they access a rapid review in the community with opticians or hearing services. ",
+        "action2": "Could recommend the person access regular reviews with community opticians."
     
         },
 
@@ -273,8 +251,7 @@
         "question": "Is the person experiencing any other issue that would impact on their ability to function or maintain safety at home? This could include: Poorly controlled pain, uncontrolled co-morbidities or environmental issues such insufficient heating or safeguarding concerns", 
         "choice1": "Yes",
         "choice2": "No",
-        "action1": "Other Yes",
-        "action2": "Other No"
+        "action1": "Should have further review by appropriate service relating to the specific issue/ issues(s).\nPlease detail…'the person requires support with……………'"
     
         }
     ]

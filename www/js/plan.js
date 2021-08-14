@@ -6,7 +6,7 @@ var i;
 
 finalActions.innerHTML = actions
     .map(action => {
-        return `<li class="action">${action}</li>`;
+        return `<li class="action"><pre>${action}</pre></li>`;
     })
     .join("");
 
@@ -21,5 +21,3 @@ for (i = 0; i < coll.length; i++) {
       }
     });
   }
-
-// finalActions.innerText = actions;

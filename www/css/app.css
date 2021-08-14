@@ -9,6 +9,7 @@
     margin: 0;
     padding: 0;
     color: #333;
+    scroll-behavior: auto;
   }
   
   h1,
@@ -22,7 +23,6 @@
     font-size: 5.4rem;
     color: #005eb8;
     margin-bottom: 5rem;
-    flex: ;
   }
   
   h1 > span {

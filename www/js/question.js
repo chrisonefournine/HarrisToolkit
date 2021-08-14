@@ -57,9 +57,9 @@ getNewQuestion = () => {
     }
     
     questionCounter++;
-    progressText.innerText = `Category ${questionCounter}/${MAX_QUESTIONS}`;
+    progressText.innerText = `Question ${questionCounter}/${MAX_QUESTIONS}`;
     // Update the progress bar
-    progressBarFull.style.width = `${(questionCounter / MAX_QUESTIONS) * 100}%`;
+    progressBarFull.style.width = `${(questionCounter / (MAX_QUESTIONS+1)) * 100}%`;
 
     // Get a question from the avaliable questions at random
     // const questionIndex = Math.floor(Math.random() * availableQuestions.length);
@@ -99,9 +99,9 @@ getNewQuestion = () => {
             console.log(selectedAnswer);
 
             // push action to an array "planActions" if its not empty or undefined
-            if (selectedAnswer === '1' && action2 !== undefined || '') {
+            if (selectedAnswer === '1' && action2 !== undefined || null) {
                 planActions.push(action1)
-            } else if (selectedAnswer === '2' && action2 !== undefined || '') {
+            } else if (selectedAnswer === '2' && action2 !== undefined || null) {
                 planActions.push(action2);
             }
             console.log(planActions)
